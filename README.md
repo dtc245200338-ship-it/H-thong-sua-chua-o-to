@@ -43,7 +43,7 @@ Bản này chạy Windows; chưa hỗ trợ Linux. Chưa có sửa/xóa khách h
 6. Đăng nhập letan để minh họa phân quyền.
 
 ## Nộp mã nguồn
-Nộp ZIP đi kèm. Muốn có link công khai: tạo repository GitHub rồi tải các file nguồn lên; không tải App_Data, bin, obj hay khóa bảo vệ dữ liệu. Máy hiện tại chưa kết nối tài khoản GitHub nên chưa tạo link repository.
+Nộp ZIP đi kèm. Muốn có link công khai: tạo repository GitHub rồi tải các file nguồn lên; không tải App_Data, bin, obj hay khóa bảo vệ dữ liệu. Mã nguồn: https://github.com/dtc245200338-ship-it/H-thong-sua-chua-o-to
 localhost chỉ mở trên máy đang chạy, không phải link công khai cho giáo viên. Muốn triển khai cần máy chủ Windows/.NET phù hợp và cấu hình HTTPS, tài khoản riêng, sao lưu và AllowedHosts. Không đưa tài khoản demo lên Internet.
 
 ## Tài liệu tham khảo
